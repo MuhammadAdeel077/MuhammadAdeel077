@@ -77,15 +77,8 @@
 
 <br>
 <br/><br/>
-<br/><br/>
-<summary>📝 My GitHub Stats</summary>
 
-[![Adeel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAdeel077&theme=gotham)](https://github.com/MuhammadAdeel077/github-readme-activity-graph)
-
-![](https://github-streak-stats.vercel.app/?user=MuhammadAdeel077&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdeel077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/><br/>
+![GitHub Snake](https://raw.githubusercontent.com/MuhammadAdeel077/MuhammadAdeel077/refs/heads/output/github-snake-dark.svg)
 
 
 
