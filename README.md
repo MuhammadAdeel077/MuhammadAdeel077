@@ -78,7 +78,7 @@
 <br>
 <br/><br/>
 
-![GitHub Snake](https://raw.githubusercontent.com/MuhammadAdeel077/MuhammadAdeel077/refs/heads/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/AdiiiCode/AdiiiCode/refs/heads/output/github-snake-dark.svg)
 
 
 
